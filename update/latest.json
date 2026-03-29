@@ -1,0 +1,11 @@
+{
+  "latest": "2.0.0",
+  "download_url": "https://github.com/trobo12345/roby-weaponban-updates",
+  "highlights": [
+    "Initial public update metadata endpoint",
+    "Ready for startup version checks"
+  ],
+  "fixes": [
+    "Metadata repository initialized"
+  ]
+}
