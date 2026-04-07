@@ -1,6 +1,6 @@
 {
   "latest": "2.1.0",
-  "download_url": "https://github.com/trobo12345/roby-weaponban-updates",
+  "download_url": "https://portal.cfx.re/",
   "highlights": [
     "Player Remaining Time `/myweaponban` Command",
     "SQL Storage Support (`oxmysql` out of the box)",
