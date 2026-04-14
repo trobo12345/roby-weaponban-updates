@@ -1,14 +1,15 @@
-{
-  "latest": "2.1.0",
-  "download_url": "https://portal.cfx.re/",
-  "highlights": [
-    "Player Remaining Time `/myweaponban` Command",
-    "SQL Storage Support (`oxmysql` out of the box)",
-    "Hour-based Ban Configurations added",
-    "Optimized TimeZone Sync natively"
-  ],
-  "fixes": [
-    "Refactored CheckAdminDuty & Duty Checks",
-    "Fixed time parsing bugs"
-  ]
-}
+{  
+  "latest": "2.1.1",  
+  "download_url": "https://portal.cfx.re/",  
+  "highlights": [  
+    "Player Remaining Time `/myweaponban` Command",  
+    "SQL Storage Support (`oxmysql` out of the box)",  
+    "Hour-based Ban Configurations added",  
+    "NUI Date/Time parsing optimized for raw MS strings",  
+    "Client NUI Security massively increased (Obfuscated)"  
+  ],  
+  "fixes": [  
+    "Fixed NUI Crash (ban.expires.replace TypeError)",  
+    "Fixed Edit Modal proper datetime-local population"  
+  ]  
+} 
