@@ -1,0 +1,11 @@
+{
+  "latest": "1.0.0",
+  "minimum_supported": "1.0.0",
+  "download_url": "https://portal.cfx.re/",
+  "highlights": [
+    "Roby Garage and Roby Carlock package",
+    "Open framework, database and anti-cheat bridges",
+    "Token-confirmed owned, rental and impound vehicle spawns"
+  ],
+  "fixes": []
+}
